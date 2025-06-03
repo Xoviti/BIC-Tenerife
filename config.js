@@ -26,10 +26,10 @@ var config = {
             hidden: false,
             title: 'RASCA',
             image: './assets/san-fran.jpeg',
-            description: 'Este capítulo contiene una imagen de Rasca',
+            description: 'El faro de Punta de Rasca es un faro situado en la isla de Tenerife (Islas Canarias, España) que se encarga de balizar para la navegación marítima las costas del sur de la isla, en la franja de litoral que abarca desde la zona cubierta por el faro de Punta de Teno, al noroeste, y el faro de Punta Abona, ubicado al noreste.',
             location: {
-                center: [-16.69, 28.00],
-                zoom: 9.63,
+                center: [-16.698432284528433, 28.00256858986609],
+                zoom: 9.39,
                 pitch: 60,
                 bearing: 0
             },
@@ -54,12 +54,12 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'EL  PUERTO DE LA CRUZ',
+            title: 'ROQUE DE JAMA - LA CENTINELA',
             image: './assets/washington-dc.jpg',
             description: 'The second chapter flies to Washington, D.C., updates the camera pitch, and slowly rotates. <br>  <br> Washington, D.C., the capital of the United States, is a vibrant city known for its iconic landmarks, including the White House, the U.S. Capitol, and the Washington Monument. It serves as the political heart of the nation and a center for history, culture, and international diplomacy.',
             location: {
-                center: [-16.54, 28.41],
-                zoom: 8.5,
+                center: [-16.645551354541531, 28.098765695332148],
+                zoom: 9.39,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
@@ -79,12 +79,12 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'BARRANCO DE  ACENTEJO',
+            title: 'VILLA Y PUERTO DE GARACHICO',
             image: './assets/geneva.jpg',
             description: 'Geneva, Switzerland, is a picturesque city nestled along the shores of Lake Geneva, surrounded by the Alps and Jura mountains. Known as a global hub for diplomacy and finance, it is home to numerous international organizations, including the United Nations and the Red Cross.',
             location: {
-                center: [-16.45, 28.43],
-                zoom: 12.52,
+                center: [-16.756145891962451, 28.374100444497749],
+                zoom: 9.39,
                 pitch: 8.01,
                 bearing: 0.00
             },
@@ -98,12 +98,12 @@ var config = {
             id: 'fourth-chapter',
             alignment: 'fully',
             hidden: false,
-            title: 'VILLA DE LA OROTAVA',
+            title: 'LLANOS DE IFARA',
             image: './assets/buenos-aires.jpg',
             description: 'Buenos Aires, the capital of Argentina, is a dynamic city known for its European-inspired architecture, vibrant tango culture, and rich culinary scene. Often called the "Paris of South America," it blends historic charm with modern energy.  You can add as many chapters as you need, just copy the JSON data and make changes.',
             location: {
-                center: [-16.52, 28.39],
-                zoom: 4,
+                center: [-16.50869988252785, 28.090112608108541],
+                zoom: 9.39,
                 pitch: 0,
                 bearing: 0
             },
